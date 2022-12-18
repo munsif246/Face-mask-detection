@@ -22,3 +22,6 @@
 
 ## Models's performance on test data 
 <img src="https://user-images.githubusercontent.com/83495853/206264718-46cf80c9-83cf-42b6-a306-e0366e44eb0c.PNG" width="850" height="270"/> 
+
+## Train Accuracy and loss graphs
+![download](https://user-images.githubusercontent.com/83495853/208284719-68552cdb-8664-4013-9417-83d5077e6f6b.png)
